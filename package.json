@@ -1,0 +1,20 @@
+{
+  "name": "pythagoras",
+  "version": "1.0.0",
+  "description": "a maths testing program",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljdickinson/-pythagoras.git"
+  },
+  "keywords": [
+    "maths",
+    "testing"
+  ],
+  "author": "Michael Dickinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljdickinson/-pythagoras/issues"
+  },
+  "homepage": "https://github.com/michaeljdickinson/-pythagoras#readme"
+}
